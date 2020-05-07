@@ -11,5 +11,7 @@ class App < Sinatra::Base
     erb :index
   end
   
+  #displays the shopping cart contents 
+  
   
 end
